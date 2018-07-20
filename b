@@ -1,2 +1,5 @@
-added in b1
+<<<<<<< HEAD
+added in b
+=======
+>>>>>>> test1
 added in b
